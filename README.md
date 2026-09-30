@@ -1,5 +1,7 @@
 # Dad Joke MCP Server Lab
 
+This fork is maintained by [Renato Camara](https://github.com/renatocamara).
+
 ![.NET 10](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet)
 ![MCP Lab](https://img.shields.io/badge/MCP-Lab-0A7A5E?style=for-the-badge)
 ![Transports](https://img.shields.io/badge/Transports-StdIO%20%7C%20SSE-2E3A59?style=for-the-badge)
@@ -63,6 +65,8 @@ This repository is a small, hands-on lab for learning how to build a simple MCP 
 ### Build once
 
 ```powershell
+git clone https://github.com/renatocamara/simple.mcp.demo.git
+Set-Location simple.mcp.demo
 dotnet build
 ```
 

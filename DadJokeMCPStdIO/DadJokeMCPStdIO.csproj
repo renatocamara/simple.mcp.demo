@@ -9,7 +9,7 @@
 
   <PropertyGroup>
     <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
-    <ContainerRepository>lluppesms/dadjokemcp</ContainerRepository>
+    <ContainerRepository>renatocamara/dadjokemcp</ContainerRepository>
     <ContainerFamily>alpine</ContainerFamily>
     <RuntimeIdentifiers>linux-x64;linux-arm64</RuntimeIdentifiers>
   </PropertyGroup>
